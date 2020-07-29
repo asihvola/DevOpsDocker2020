@@ -1,0 +1,7 @@
+1.1 Getting started
+
+(base) ari@Porkkana:~/dockers20$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                          PORTS               NAMES
+f000c57f6a94        nginx               "/docker-entrypoint.…"   2 minutes ago       Exited (0) About a minute ago                       lucid_wescoff
+7af8248863ab        nginx               "/docker-entrypoint.…"   2 minutes ago       Exited (0) 23 seconds ago                           vigorous_hoover
+ab7d386c3c10        nginx               "/docker-entrypoint.…"   2 minutes ago       Up 2 minutes                    80/tcp              objective_booth
