@@ -1,0 +1,9 @@
+1.2 Cleanup
+
+(base) ari@Porkkana:~/dockers20$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+(base) ari@Porkkana:~/dockers20$ 
+
+(base) ari@Porkkana:~/dockers20$ docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+(base) ari@Porkkana:~/dockers20$ 
